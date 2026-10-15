@@ -30,7 +30,7 @@ form input {
 }
 
 form input:focus {
-    outline: 2px solid blue;
+    outline: 2px solid rgb(65, 65, 129);
 }
 
 @media (max-width: 700px) {
